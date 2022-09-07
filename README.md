@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Damiano Pasquini</h1>
-<h3 align="center">Software Developer student @ UNICAM University of Camerino</h3>
+<h3 align="center">Software developer student @ UNICAM University of Camerino</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiano00&label=Profile%20views&color=0e75b6&style=flat" alt="damiano00" /> </p>
+
+- Algorithms and Data Structures [https://github.com/damiano00/AlgorithmsAndDataStructuresProject](https://github.com/damiano00/AlgorithmsAndDataStructuresProject)
+
+- Image Cataloging Support [https://github.com/damiano00/ImageCatalogingSupport](https://github.com/damiano00/ImageCatalogingSupport)
+
+- Card Game Library [https://github.com/damiano00/CardGameLib](https://github.com/damiano00/CardGameLib)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
