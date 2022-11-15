@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiano Pasquini</h1>
-<h3 align="center">Software developer student @ UNICAM University of Camerino | iOS Developer @ AppLoad Studio</h3>
+<h3 align="center">Software Developer Student @ UNICAM University of Camerino | iOS Developer @ AppLoad Studio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiano00&label=Profile%20views&color=0e75b6&style=flat" alt="damiano00" /> </p>
 
