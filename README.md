@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiano Pasquini</h1>
-<h3 align="center">Computer Science student @<a href="https://www.unicam.it/en/home">University of Camerino</a></h3>
+<h3 align="center">MSc Computer Science student @<a href="https://www.unicam.it/en/home">University of Camerino</a></h3>
 </h3> 
 <h3 align="center">Double Degree student @<a href="https://en.ru.is/">Reykjavik University</a></h3>
 
