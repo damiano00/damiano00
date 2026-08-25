@@ -56,7 +56,7 @@ Outside the terminal, you'll find me on a climbing wall. 🧗
 
 - 🎓 **MSc Computer Science** — UNICAM, University of Camerino · *110/110 cum laude* · 2022–2025
 - 🇮🇸 **Double Degree Exchange** — Reykjavík University · *ML & NLP specialisation · Scholarship recipient* · 2023
-- 🎓 **BSc Computer Science** — UNICAM, University of Camerino · *93/110* · 2019–2022
+- 🎓 **BSc Computer Science** — UNICAM, University of Camerino · *97/110* · 2019–2022
 
 ---
 
