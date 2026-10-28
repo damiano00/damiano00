@@ -1,6 +1,6 @@
 # Hey, I'm Damiano 👋
 
-I'm a **Network Engineer & Software Developer** at [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) in Turin, working on [IPCEI-CIS](https://ipcei-cis.eu/) — a European strategic initiative shaping the next generation of multi-provider Cloud/Edge infrastructure.
+I'm a **Network Engineer & Software Developer** at [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) in Turin, working on [IPCEI-CIS](https://ipcei-cis.eu/), a European strategic initiative shaping the next generation of multi-provider Cloud/Edge infrastructure.
 
 I hold a **double MSc in Computer Science** (110/110 cum laude) from the University of Camerino and Reykjavik University, with a specialisation in Machine Learning and NLP. My thesis applied a CLSTM-PPO deep reinforcement learning architecture to algorithmic financial trading.
 
